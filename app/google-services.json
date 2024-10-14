@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989702721084",
+    "project_id": "tourist-explorer-5ef0b",
+    "storage_bucket": "tourist-explorer-5ef0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989702721084:android:058c6a36fae7f754b8fd39",
+        "android_client_info": {
+          "package_name": "com.example.touristexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCty0vumtwocqoPhNjDbNkH0sX1XBYJjJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
